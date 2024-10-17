@@ -18851,7 +18851,7 @@
         "company_name": "Chime",
         "id": "37ddb0b1-17d9-4b43-b1ca-15fa8da3652d",
         "title": "Software Engineer-New Grad - For Fall 2024 Event Attendees",
-        "active": true,
+        "active": false,
         "date_updated": 1726096329,
         "date_posted": 1726096329,
         "url": "https://boards.greenhouse.io/chime/jobs/7626713002",
@@ -20558,6 +20558,22 @@
             "San Jose, CA"
         ],
         "company_url": "https://simplify.jobs/c/WeRide",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "ManTech",
+        "id": "4867ce68-7b8a-4cb5-9f3f-858ae6cefee6",
+        "title": "Junior Software Engineer",
+        "active": true,
+        "date_updated": 1729120494,
+        "date_posted": 1729120494,
+        "url": "https://mantech.wd1.myworkdayjobs.com/en-US/External/job/USA-VA-Chantilly/Junior-Software-Engineer_R55970",
+        "locations": [
+            "Chantilly, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/c6651565-44c8-4050-8412-111c54942390",
         "is_visible": true,
         "sponsorship": "Other"
     }
